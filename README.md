@@ -1,0 +1,2 @@
+# Fast-Clicker
+auto clicker
